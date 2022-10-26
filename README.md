@@ -1,6 +1,6 @@
 # Portfolio
 This portfolio is a small project using HTML/CSS & Bootstrap.
-[Live Heroku Deployment](https://MY-PORTFOLIO.kachi92.repl.co)
+[Live Deployment](https://MY-PORTFOLIO.kachi92.repl.co)
 ## Technologies Used
 *HTML
 *CSS
